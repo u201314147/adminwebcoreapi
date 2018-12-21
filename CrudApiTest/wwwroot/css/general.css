@@ -1,0 +1,5 @@
+﻿
+.btn-loading {
+    cursor: wait !important;
+    pointer-events: all !important;
+}
